@@ -1,2 +1,2 @@
 # SubnetCalc
-This is a useful tool for subnet calculating in terms of understanding how networking works as well.
+This is a subnet calculating tool in terms of understanding how networking works as well.
